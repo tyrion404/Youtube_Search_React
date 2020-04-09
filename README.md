@@ -4,4 +4,4 @@ just clone it and use.
 
 $ npm install
 
-$npm start
+$ npm start
